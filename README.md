@@ -1,8 +1,9 @@
 # Naver News Crawler(Python)
 
-Python crawler scripts(Original Source providers mentioned in py files)
+Python crawler scripts(Original Source providers mentioned in py files)<br>
+I did not write the original source codes for this repository
 
-Thanks to https://yoonpunk.tistory.com for naver-link-crawler and donga-crawler source codes
+Thanks to https://yoonpunk.tistory.com for naver-link-crawler and donga-crawler source codes<br>
 Thanks to https://fishneverdies.tistory.com for naver-good-crawler source codes
 
 # 1. naver-link-crawler
